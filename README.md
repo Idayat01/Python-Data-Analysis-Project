@@ -22,11 +22,11 @@ Using libraries like **Pandas, Matplotlib, and Seaborn**, I explored raw sales d
 ---
 
 ## Dashboard / Visualization Preview  
-![Python Analysis](python pyt1.png) 
-![Python Analysis](python pyt2.png)
-![Python Analysis](python pyt3.png)
-![Python Analysis](python pyt4.png)
-![Python Analysis](python pyt5.png)
+![Python Analysis](pyt1.png) 
+![Python Analysis](pyt2.png)
+![Python Analysis](pyt3.png)
+![Python Analysis](pyt4.png)
+![Python Analysis](pyt5.png)
   
 
 ---
