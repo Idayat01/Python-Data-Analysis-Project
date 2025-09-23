@@ -21,6 +21,12 @@ Using libraries like **Pandas, Matplotlib, and Seaborn**, I explored raw sales d
 
 ---
 
+## Interactive Notebook  
+You can explore and run the full analysis in your browser via Colab:
+
+[Run this Notebook on Google Colab](https://colab.research.google.com/drive/1DiCpSBvgj4RmyPVsGbI-VKbave8b441v)
+
+
 ## Dashboard / Visualization Preview  
 ![Python Analysis](pyt1.png) 
 ![Python Analysis](pyt2.png)
